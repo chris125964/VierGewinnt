@@ -12,6 +12,5 @@ public class ZugUTest {
 	public void testGetSet() {
 		Zug zug = new Zug(3, 5, new Spieler("Christian", ESpielfigur.GELB));
 
-		assertThat();
 	}
 }
